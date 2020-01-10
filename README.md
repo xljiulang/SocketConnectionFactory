@@ -16,3 +16,7 @@ services.AddSingleton<IConnectionFactory, SocketConnectionFactory>();
  var writeResult = await connection.Transport.Output.WriteAsync(new Byte[]{1,2,3});
 ```
 
+### nuget
+```
+<PackageReference Include="Kestrel.Transport.Sockets.Client" Version="3.1.0" />
+```
