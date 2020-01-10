@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Kestrel.Transport.Sockets.Client/v16
+/Kestrel.Transport.Sockets.Client/.vs/Kestrel.Transport.Sockets.Client
+/Kestrel.Transport.Sockets.Client/bin/Debug/netcoreapp3.1
+/Kestrel.Transport.Sockets.Client/obj
+/Kestrel.Transport.Sockets.Client/bin/Debug
