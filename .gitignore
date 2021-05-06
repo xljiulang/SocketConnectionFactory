@@ -7,3 +7,5 @@
 /Kestrel.Transport.Sockets.Client/bin/Debug/netcoreapp3.1
 /Kestrel.Transport.Sockets.Client/obj
 /Kestrel.Transport.Sockets.Client/bin/Debug
+/.vs/Kestrel.Transport.Sockets.Client/DesignTimeBuild
+/Kestrel.Transport.Sockets.Client/bin/Release
